@@ -1,8 +1,7 @@
 # CricketStates-CRM
 
 ## Project Document
-Download here:
-CricketStates doc.docx
+https://docs.google.com/document/d/1Mq-3wadOcNyYB9fgSIdc1VsWLkJwLvtm/edit?usp=sharing&ouid=106255382947823509868&rtpof=true&sd=true
 
 ## Demo Video
 Watch the demo here:
